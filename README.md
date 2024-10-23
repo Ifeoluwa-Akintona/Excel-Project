@@ -1,4 +1,4 @@
-# Retail Analysis Project
+# Lita_Retail Analysis Project
 This project analyzes the sales data from a fashion store to gain insights into their sales performance, products performance and trends, then finally, the regional breakdown. The analysis was performed using Excel. 
 
 ## Table of Contents
