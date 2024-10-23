@@ -64,6 +64,10 @@ We recommend expanding marketing efforts in the South region to drive further gr
 1. Download the `data.xlsx` file from the [data folder](https://docs.google.com/spreadsheets/d/1AJAgALj3g1aOLBO8GXBjlF55gnP7NglJ/edit?usp=drive_link&ouid=117145407585897274015&rtpof=true&sd=true)
 2. Open the Excel file and navigate to the `Dashboard` sheet to view key insights.
 
+## The Overall view of the Dashboard
+
+<img width="429" alt="Retail dashboard" src="https://github.com/user-attachments/assets/414427b0-807a-4fd3-a60a-8643a30d0e03">
+
 
 
 
