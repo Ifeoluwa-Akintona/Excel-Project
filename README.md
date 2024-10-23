@@ -46,6 +46,24 @@ We segmented customers by region and identified that 44.6% of sales came from th
 
 <img width="331" alt="Total Sales Per Region" src="https://github.com/user-attachments/assets/0d398f32-f625-48f8-9fa8-45af2fbbcaf8">
 
+### 3. Product Performance
+Based on analysis, it was noticed that the product 'Shoes' generated the highest revenue contributing 29.19% of total sales
+
+<img width="323" alt="Total Sales Per Product" src="https://github.com/user-attachments/assets/f6a6a7ac-d20a-4d64-a169-c6de513967d5">
+
+## Conclusion
+
+The analysis shows that:
+- The South region is the most profitable region, contributing 44.6% of sales.
+- Our top-performing product is the product "Shoes," contributing 29.19% of total revenue.
+
+We recommend expanding marketing efforts in the South region to drive further growth.
+
+## How to Use
+
+1. Download the `data.xlsx` file from the [data folder](https://docs.google.com/spreadsheets/d/1AJAgALj3g1aOLBO8GXBjlF55gnP7NglJ/edit?usp=drive_link&ouid=117145407585897274015&rtpof=true&sd=true)
+2. Open the Excel file and navigate to the `Dashboard` sheet to view key insights.
+
 
 
 
